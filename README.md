@@ -19,8 +19,8 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
     <td>94</td>
   </tr>
 </table>
-% <table style="width:100%">
- % <tr>
+ <table style="width:100%">
+  <tr>
     <th>Firstname</th>
     <th>Lastname</th> 
     <th>Age</th>
