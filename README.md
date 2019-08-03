@@ -9,7 +9,7 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
     <th>Age</th>
   </tr>
   <tr>
-    <td>Jill</td>
+    <td><a href="https://arxiv.org/pdf/1812.08434.pdf" > GNN </a></td>
     <td>Smith</td> 
     <td>50</td>
   </tr>
