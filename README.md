@@ -23,4 +23,6 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
   </tr>
 </table>
 ------------------------------------------------------------------
-
+<p>I will display &euro;</p>
+<p>I will display €</p>
+<p>I will display €</p>
