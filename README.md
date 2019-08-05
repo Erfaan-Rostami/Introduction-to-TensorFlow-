@@ -22,16 +22,5 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
      <td>erf</td>
   </tr>
 </table>
-
 ------------------------------------------------------------------
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf8">
-<title>sh711.com</title>
-</head>
-<body>
-<p style="color: red">sh711.com</p>
-</body>
-</html>
