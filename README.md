@@ -25,7 +25,7 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
 ------------------------------------------------------------------
 
 <div class="Graph Neural Network">
-  <h1>Header</h1>
+  <h1>GNN</h1>
   <p>Deep Learning</p>
 </div>
 
