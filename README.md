@@ -25,4 +25,4 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
 ------------------------------------------------------------------
 <p>I will display &euro;</p>
 <p>I will display €</p>
-<p>I will display ;reg&</p>
+<p>I will display &reg;</p>
