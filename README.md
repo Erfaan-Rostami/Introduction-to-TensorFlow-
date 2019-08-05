@@ -24,8 +24,8 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
 </table>
 ------------------------------------------------------------------
 
-<div class="header">
+<div class="Graph Neural Network">
   <h1>Header</h1>
-  <p>My supercool header</p>
+  <p>Deep Learning</p>
 </div>
 
