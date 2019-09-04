@@ -4,6 +4,7 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
 - Useful Links:
 
 &clubs; <a href="https://www.datacamp.com/community/tutorials/tensorboard-tutorial">TensorBoard Tutorial</a> by 
+Thushan Ganegedara
 
 - How to Load, Convert, and Save Images With the Keras API; by <a href="https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/"> Jason Brownlee </a>
 
