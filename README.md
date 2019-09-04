@@ -4,7 +4,7 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
 - Useful Links:
 
 &clubs; <a href="https://www.datacamp.com/community/tutorials/tensorboard-tutorial">TensorBoard Tutorial</a> by Thushan Ganegedara
-<table border="1" style="color : green">
+<table border="1" style="color : #009933">
   <tr>
     <td>
       Thushan Ganegedara
