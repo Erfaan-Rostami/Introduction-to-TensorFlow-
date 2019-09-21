@@ -31,7 +31,7 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
     <td>1398</td>
   </tr>
   <tr>
-    <td>Eve</td>
+    <td>Encoder</td>
     <td>ReLU</td> 
     <td>keras</td>
      <td>MNIST</td>
