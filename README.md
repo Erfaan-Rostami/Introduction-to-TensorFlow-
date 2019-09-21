@@ -32,7 +32,7 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
   </tr>
   <tr>
     <td>Eve</td>
-    <td>Jackson</td> 
+    <td>ReLU</td> 
     <td>94</td>
      <td>MNIST</td>
   </tr>
