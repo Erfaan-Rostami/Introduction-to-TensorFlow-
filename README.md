@@ -34,7 +34,7 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
     <td>Eve</td>
     <td>Jackson</td> 
     <td>94</td>
-     <td>erf</td>
+     <td>MNIST</td>
   </tr>
 </table>
 ------------------------------------------------------------------
