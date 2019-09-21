@@ -33,7 +33,7 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
   <tr>
     <td>Eve</td>
     <td>ReLU</td> 
-    <td>94</td>
+    <td>keras</td>
      <td>MNIST</td>
   </tr>
 </table>
