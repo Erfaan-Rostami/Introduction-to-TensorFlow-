@@ -27,7 +27,7 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
   <tr>
     <td><a href="https://arxiv.org/pdf/1812.08434.pdf" > GNN </a></td>
     <td>MLP</td> 
-    <td>50</td>
+    <td>CNN</td>
     <td>1398</td>
   </tr>
   <tr>
