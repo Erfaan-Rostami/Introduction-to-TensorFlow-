@@ -8,6 +8,9 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
   
 &clubs;
 ## Examples(code)
+This page is a collection of TensorFlow examples, that we have found around the web for your convenience.
+
+
   <tr>
     <td>
       Thushan Ganegedara
