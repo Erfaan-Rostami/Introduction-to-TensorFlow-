@@ -43,4 +43,4 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
      <td>MNIST</td>
   </tr>
 </table>
-------------------------------------------------------------------
+----------------------------------------------------------------
