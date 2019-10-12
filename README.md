@@ -7,6 +7,7 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
 <table border="1" style="color : #009933">
   
 &clubs;
+## Examples(code)
   <tr>
     <td>
       Thushan Ganegedara
