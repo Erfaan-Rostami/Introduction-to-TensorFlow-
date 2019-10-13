@@ -1,7 +1,6 @@
 # Deep Learning with TensorFlow and TensorBoard
 A Mathematical Approach to Advanced  Artificial Intelligence in Python
 ## TensorBoard
-- Useful Links:
 
 &clubs; <a href="https://www.datacamp.com/community/tutorials/tensorboard-tutorial">TensorBoard Tutorial</a> by Thushan Ganegedara
 <table border="1" style="color : #009933">
