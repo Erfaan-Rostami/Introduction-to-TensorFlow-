@@ -3,7 +3,7 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
 
 &#9917; <a href="https://www.packtpub.com/big-data-and-business-intelligence/learning-tensorflow-20-video">Learning TensorFlow 2.0 </a>[Video]
 
-&#9917; <a href="">Tensorflow for Deep Learning Research</a> (Course)
+&#9917; <a href="http://web.stanford.edu/class/cs20si/index.html">Tensorflow for Deep Learning Research</a> (Course)
 ## TensorBoard
 
 &clubs; <a href="https://www.datacamp.com/community/tutorials/tensorboard-tutorial">TensorBoard Tutorial</a> by Thushan Ganegedara
