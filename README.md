@@ -5,7 +5,7 @@ A Mathematical Approach to Advanced  Artificial Intelligence in Python
 
 &#9917; <a href="http://web.stanford.edu/class/cs20si/index.html">Tensorflow for Deep Learning Research</a> (Course)
 
-&#9917; <a href="">Tensorflow Tutorials Point</a>
+&#9917; <a href="https://www.tutorialspoint.com/tensorflow/tensorflow_tutorial.pdf">Tensorflow Tutorials Point</a> (PDF file)
 ## TensorBoard
 
 &clubs; <a href="https://www.datacamp.com/community/tutorials/tensorboard-tutorial">TensorBoard Tutorial</a> by Thushan Ganegedara
