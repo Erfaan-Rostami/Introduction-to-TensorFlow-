@@ -1,6 +1,7 @@
 # Deep Learning with TensorFlow and TensorBoard
 ## Useful Linkes
-   * Why TensorFlow
+   - Why TensorFlow
+   
 A Mathematical Approach to Advanced  Artificial Intelligence in Python
 
 &#9917; <a href="https://www.packtpub.com/big-data-and-business-intelligence/learning-tensorflow-20-video">Learning TensorFlow 2.0 </a>[Video]
