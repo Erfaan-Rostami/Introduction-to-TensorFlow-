@@ -1,5 +1,5 @@
 # Deep Learning with TensorFlow and TensorBoard
-## Useful Linkes
+* **Useful Linkes**
    - Why TensorFlow
    
 A Mathematical Approach to Advanced  Artificial Intelligence in Python
